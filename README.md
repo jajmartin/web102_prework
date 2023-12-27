@@ -10,16 +10,16 @@ Time spent: 10 hours spent in total
 
 The following **required** functionality is completed:
 
-* [y] The introduction section explains the background of the company and how many games remain unfunded.
-* [y] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [y] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [y] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] Implemented a toggle button for Dark Mode
-* [ ] Changed color pallete and various CSS rules for a cleaner look
-* [ ] Implemented button attributes (change color on mouse hover, mouse click, and change cursor to pointer)
+* [x] Implemented a toggle button for Dark Mode
+* [x] Changed color pallete and various CSS rules for a cleaner look
+* [x] Implemented button attributes (change color on mouse hover, mouse click, and change cursor to pointer)
 
 ## Video Walkthrough
 
@@ -33,9 +33,11 @@ GIF created with Kap
 
 Describe any challenges encountered while building the app.
 
+The biggest challenge for me was implementing the addGamesToPage function, specifically figuring out how to use the innerHTML method. Once I understood you can simply enter a templated string with various html tags, it became easier to implement. Additionally, it took me some time to realize that I need to use the appendChild method when adding new elements to various containers. Overall, building the app was fun and not too challenging.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Julian Martin
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

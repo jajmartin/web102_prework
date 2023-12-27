@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 
 
-<video src='https://www.loom.com/share/69b22f7fe4dd4ca48d1bbe0ea1f8aa95?sid=50205c78-0680-4d92-9cf8-e44b7f32d631' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='https://www.loom.com/share/69b22f7fe4dd4ca48d1bbe0ea1f8aa95?sid=50205c78-0680-4d92-9cf8-e44b7f32d631'> Loom Video </a>
 
 GIF created with Loom
 
